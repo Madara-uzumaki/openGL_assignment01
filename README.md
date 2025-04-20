@@ -1,4 +1,4 @@
-# openGL_assignment01
+# ASTU assignment 
 c++
 animation of astus' gate
 enjoy...
